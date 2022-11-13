@@ -1,0 +1,50 @@
+font{
+    color:rgb(252, 250, 250);
+}
+
+
+
+h2{
+    color:rgb(252, 250, 250);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 4rem;
+    text-transform: uppercase;
+    display: block;
+    background-color: rgb(29, 28, 28);
+    padding-right: 0em;
+}
+h3{
+    font-style: oblique;
+    font-size: 2em;
+    font-weight: bold;
+}
+body{
+    background: rgb(243, 245, 245) url('https://cdn.wallpapersafari.com/1/80/m3SgER.jpg');
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+    background-position: left;
+
+}
+.button {
+    background-color: #0a0a0a; 
+    border: none;
+    color: rgb(238, 238, 238);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button4 {border-radius: 6px;}
+  .bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
